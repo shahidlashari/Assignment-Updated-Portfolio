@@ -1,0 +1,36 @@
+h4{
+  background-color: teal;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem; 
+}
+h2{
+  color: teal;
+}
+#container{
+  width: auto;
+  border-style: hidden;
+  background-color: white;
+  padding-top:8rem;
+  padding-bottom:8rem;
+}
+
+body{
+  background-image: url(../images/embossed-diamond.png);
+  widows: 980px;
+} 
+
+#footer-bg{
+  background-color:rgba(66, 65, 65, 0.995);
+  text-align: center;
+}
+#footer-padding {
+    background-color: teal;
+    margin-bottom: 18px;
+  }
+ 
+  
+ 
+
