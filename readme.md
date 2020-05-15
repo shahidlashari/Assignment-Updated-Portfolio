@@ -1,9 +1,11 @@
 Updated Portfolio
 
 URL Links:
-https://github.com/shahidlashari/updated-profile
+https://shahidlashari.github.io/HW2/
 
-https://shahidlashari.github.io/updated-profile/
+https://github.com/shahidlashari/HW2
+
+
 
 Description:
 
